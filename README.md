@@ -11,3 +11,9 @@ This is for arch linux
 
 Place the files into ~/.tw or whatever.
 Make a cronjob to run the script every minute.
+
+## TODO
+
+- weather based FX
+- get weather
+- get lumens
